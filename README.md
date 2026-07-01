@@ -6,13 +6,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Meu foco é o des
 
 ---
 
-### 🏆 Projeto em Destaque
+### 🏆 Projetos em Destaque
 
 **[Cara ou Coroa - App em Kotlin](https://github.com/lmartinezscordamaglia2107/trabalho-lucas)**
-Este projeto foi desenvolvido em colaboração com um amigo para aplicar conceitos fundamentais de desenvolvimento Android:
-- **Linguagem**: Kotlin.
-- **Ferramenta**: Android Studio.
-- **Conceitos**: Uso de Intents para navegação e lógica de sorteio aleatório.
+**[sistema de pizzaria](https://github.com/lmartinezscordamaglia2107/AppKotlin)**
+Estes projetos foram desenvolvidos para aplicar conceitos da Linguagem Kotlin
+
 
 ---
 
